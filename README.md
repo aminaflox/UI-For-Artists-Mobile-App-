@@ -1,1 +1,1 @@
-# websiteForGroceryShop
+# UI for Artists (Mobile App)
